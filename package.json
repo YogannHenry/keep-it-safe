@@ -1,0 +1,23 @@
+{
+  "name": "keep-it-safe",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YogannHenry/keep-it-safe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YogannHenry/keep-it-safe/issues"
+  },
+  "homepage": "https://github.com/YogannHenry/keep-it-safe#readme",
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
